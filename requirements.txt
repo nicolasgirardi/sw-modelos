@@ -1,6 +1,7 @@
 ipykernel
 docplex
 matplotlib
+pulp
 
 # (Para que funcionen los "%run common_model.ipynb")
 #nbformat 
